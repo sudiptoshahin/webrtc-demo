@@ -1,5 +1,7 @@
 ## How to run this
 
+*All features are may not be worked. i hope you'll overlook it kindly!*
+
 1. __Pull project from Git__
 `git pull https://github.com/sudiptoshahin/webrtc-demo.git`
 
