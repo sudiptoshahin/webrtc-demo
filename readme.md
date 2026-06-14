@@ -1,7 +1,5 @@
 ## How to run this
 
-*All features are may not be worked. i hope you'll overlook it kindly!*
-
 1. __Pull project from Git__
 `git pull https://github.com/sudiptoshahin/webrtc-demo.git`
 
@@ -27,3 +25,6 @@
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+
+
+__NB: *All features are may not be worked. i hope you'll overlook it kindly!*__
