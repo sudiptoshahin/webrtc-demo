@@ -1,0 +1,18 @@
+
+body {
+    font-family: 'roboto';
+}
+
+li {
+    list-style: none;
+}
+
+textarea.focus, input:focus {
+    outline: none !important;
+}
+
+.display-center {
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
